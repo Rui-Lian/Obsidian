@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "2408b9b7842f66f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f51150995d18b98d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95db26e0d426e972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/静电学2-电势能和电势/匀强电场的电势.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f59375f84c06f7d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fcd1117afb619b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9283db4b9eb3dff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53e3959e505e3220",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0ee7da54e171a2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "right": {
+    "id": "c0fb8fb2c562ad37",
+    "type": "split",
+    "children": [
+      {
+        "id": "f319c79396d22a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "454dbdd324814b4c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4b333916b22be29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a946fa758c003f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/静电学2-电势能和电势/匀强电场的电势.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc5b9fd54725bc9f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/静电学2-电势能和电势/匀强电场的电势.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03070e7a849be7a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95f7684fcb752e21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/静电学2-电势能和电势/匀强电场的电势.md"
+              }
+            }
+          },
+          {
+            "id": "c3aae1cdba37f490",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "95db26e0d426e972",
+  "lastOpenFiles": [
+    "Physics/静电学2-电势能和电势/静电场中的能量MOC.md",
+    "Physics/静电学2-电势能和电势/匀强电场的静电功.md",
+    "Physics/静电学2-电势能和电势/电势.md",
+    "Physics/静电学2-电势能和电势/电势能.md",
+    "Physics/静电学2-电势能和电势/静电力做功的特点.md",
+    "Physics/静电学2-电势能和电势/力学基础回顾/势能.md",
+    "Physics/静电学2-电势能和电势/力学基础回顾/势能和功的关系.md",
+    "Physics/静电学2-电势能和电势/力学基础回顾/功.md",
+    "Physics/静电学2-电势能和电势/总结重力、弹力和库仑力.md",
+    "Physics/静电学2-电势能和电势/静电场和重力场的穿越比较.md",
+    "带电粒子在电场中的加速.md",
+    "P44例题.md",
+    "P36例题：匀强电场中带电粒子的加速、位移和能量.md",
+    "Untitled 2.md",
+    "Physics/专题-力 能量 功和场.md",
+    "功的定义.md",
+    "Physics/静电学2-电势能和电势/力学基础回顾/定义式和决定式.md",
+    "常用电容器.md",
+    "Physics/静电学2-电势能和电势/电容.md",
+    "Physics/静电学2-电势能和电势/平板电容器的电容-影响电容器电容的因素.md",
+    "Physics/静电学2-电势能和电势/补充：非匀强不均匀电场中带电粒子的加速、位移和能量.md",
+    "Physics/静电学1-静电场及其应用/3电场和电场强度的练习和应用.md",
+    "Physics/静电学1-静电场及其应用/04点电荷.md",
+    "Physics/静电学1-静电场及其应用/p3静电感应实验.md",
+    "Physics/静电学1-静电场及其应用/元电荷.md",
+    "Physics/静电学1-静电场及其应用/库伦的实验.md",
+    "Physics/在数学物理中的极限导数微分和积分",
+    "Physics/静电学1-静电场及其应用/笔记 2024年9月19日.pdf",
+    "Pasted image 20240926205052.png",
+    "Physics/静电学2-电势能和电势/力学基础回顾",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "img/Pasted image 20240924094934.png",
+    "img/Pasted image 20240923152002.png",
+    "Physics/静电学1-静电场及其应用/Untitled.canvas",
+    "img/Pasted image 20240923143141.png",
+    "Physics/静电学2-电势能和电势",
+    "Users/lr/znotes",
+    "Users/lr",
+    "Users",
+    "Physics/静电学1-静电场及其应用",
+    "Physics/力学专题1-受力分析",
+    "Untitled",
+    "img/Pasted image 20240910103006.png",
+    "img/Pasted image 20240911135254.png",
+    "img/Pasted image 20240911101151.png",
+    "Pasted image 20240909103217.png",
+    "Pasted image 20240908144252.png",
+    "Pasted image 20240909101617.png",
+    "Excalidraw/Untitled.canvas"
+  ]
+}

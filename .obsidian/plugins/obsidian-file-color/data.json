@@ -1,0 +1,45 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "2wPpqs2_d_pOALkKM1N4A",
+      "name": "",
+      "value": "#6d1c68"
+    },
+    {
+      "id": "tFRQzaXkmhuNrmXUsPhqT",
+      "name": "",
+      "value": "#9e4387"
+    },
+    {
+      "id": "REoYYSAPvhuXAByDIW9pM",
+      "name": "",
+      "value": "#cb6ca2"
+    },
+    {
+      "id": "FQwf3ApceNuautod_FKSH",
+      "name": "",
+      "value": "#e99bb9"
+    },
+    {
+      "id": "bKKar3-lSNiz4QvTqFcta",
+      "name": "",
+      "value": "#f3cad2"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "High_Chem",
+      "color": "2wPpqs2_d_pOALkKM1N4A"
+    },
+    {
+      "path": "Physics/静电学1-静电场及其应用",
+      "color": "2wPpqs2_d_pOALkKM1N4A"
+    },
+    {
+      "path": "Physics/静电学2-电势能和电势",
+      "color": "bKKar3-lSNiz4QvTqFcta"
+    }
+  ]
+}

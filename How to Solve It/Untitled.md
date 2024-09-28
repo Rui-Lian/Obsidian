@@ -1,0 +1,14 @@
+
+|Heuristic|Informal Description|Formal analogue [_[original research?](https://en.wikipedia.org/wiki/Wikipedia:No_original_research "Wikipedia:No original research")_]|
+|---|---|---|
+|[Analogy](https://en.wikipedia.org/wiki/Analogy "Analogy")|Can you find a problem analogous to your problem and solve that?|[Map](https://en.wikipedia.org/wiki/Map_(mathematics) "Map (mathematics)")|
+|Auxiliary Elements|Can you add some new element to your problem to get closer to a solution?|[Extension](https://en.wikipedia.org/wiki/Extension_(predicate_logic) "Extension (predicate logic)")|
+|[Generalization](https://en.wikipedia.org/wiki/Generalization "Generalization")|Can you find a problem more general than your problem?|[Generalization](https://en.wikipedia.org/wiki/Generalization "Generalization")|
+|[Induction](https://en.wikipedia.org/wiki/Induction_(philosophy) "Induction (philosophy)")|Can you solve your problem by deriving a generalization from some examples?|[Induction](https://en.wikipedia.org/wiki/Induction_(philosophy) "Induction (philosophy)")|
+|Variation of the Problem|Can you vary or change your problem to create a new problem (or set of problems) whose solution(s) will help you solve your original problem?|[Search](https://en.wikipedia.org/wiki/Search_algorithm "Search algorithm")|
+|Auxiliary Problem|Can you find a subproblem or side problem whose solution will help you solve your problem?|[Subgoal](https://en.wikipedia.org/wiki/Subgoal "Subgoal")|
+|Here is a problem related to yours and solved before|Can you find a problem related to yours that has already been solved and use that to solve your problem?|[Pattern recognition](https://en.wikipedia.org/wiki/Pattern_recognition "Pattern recognition")  <br>[Pattern matching](https://en.wikipedia.org/wiki/Pattern_matching "Pattern matching")  <br>[Reduction](https://en.wikipedia.org/wiki/Reduction_(complexity) "Reduction (complexity)")|
+|[Specialization](https://en.wikipedia.org/wiki/Special_case "Special case")|Can you find a problem more specialized?|[Specialization](https://en.wikipedia.org/wiki/Special_case "Special case")|
+|[Decomposing](https://en.wikipedia.org/wiki/Decomposition_(computer_science) "Decomposition (computer science)") and Recombining|Can you decompose the problem and "recombine its elements in some new manner"?|[Divide and conquer](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm "Divide and conquer algorithm")|
+|[Working backward](https://en.wikipedia.org/wiki/Working_backward_from_the_goal "Working backward from the goal")|Can you start with the goal and work backwards to something you already know?|[Backward chaining](https://en.wikipedia.org/wiki/Backward_chaining "Backward chaining")|
+|Draw a Figure|Can you draw a picture of the problem?|[Diagrammatic Reasoning](https://en.wikipedia.org/wiki/Diagrammatic_Reasoning "Diagrammatic Reasoning")[[26]](https://en.wikipedia.org/wiki/How_to_Solve_It#cite_note-26)|
