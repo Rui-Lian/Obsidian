@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f51150995d18b98d",
+        "id": "edd34f3cb67361ff",
         "type": "tabs",
         "children": [
           {
-            "id": "95db26e0d426e972",
+            "id": "85a6fc9e531296c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/静电学2-电势能和电势/匀强电场的电势.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/静电学2-电势能和电势/匀强电场的电势.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/静电学2-电势能和电势/匀强电场的电势.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics/静电学2-电势能和电势/匀强电场的电势.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,34 +167,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95db26e0d426e972",
+  "active": "85a6fc9e531296c5",
   "lastOpenFiles": [
+    "Physics/静电学2-电势能和电势/Untitled 2.md",
+    "Physics/静电学2-电势能和电势/P36例题：匀强电场中带电粒子的加速、位移和能量.md",
     "Physics/静电学2-电势能和电势/静电场中的能量MOC.md",
-    "Physics/静电学2-电势能和电势/匀强电场的静电功.md",
-    "Physics/静电学2-电势能和电势/电势.md",
-    "Physics/静电学2-电势能和电势/电势能.md",
-    "Physics/静电学2-电势能和电势/静电力做功的特点.md",
-    "Physics/静电学2-电势能和电势/力学基础回顾/势能.md",
+    "Miscellaneous/Oct_2024/2024十一密云福院儿烧烤.md",
+    "Physics/静电学2-电势能和电势/带电粒子在电场中的加速.md",
+    "Physics/静电学2-电势能和电势/P44例题.md",
     "Physics/静电学2-电势能和电势/力学基础回顾/势能和功的关系.md",
-    "Physics/静电学2-电势能和电势/力学基础回顾/功.md",
     "Physics/静电学2-电势能和电势/总结重力、弹力和库仑力.md",
-    "Physics/静电学2-电势能和电势/静电场和重力场的穿越比较.md",
-    "带电粒子在电场中的加速.md",
-    "P44例题.md",
-    "P36例题：匀强电场中带电粒子的加速、位移和能量.md",
-    "Untitled 2.md",
-    "Physics/专题-力 能量 功和场.md",
-    "功的定义.md",
-    "Physics/静电学2-电势能和电势/力学基础回顾/定义式和决定式.md",
-    "常用电容器.md",
+    "Physics/静电学2-电势能和电势/力学基础回顾/势能.md",
     "Physics/静电学2-电势能和电势/电容.md",
     "Physics/静电学2-电势能和电势/平板电容器的电容-影响电容器电容的因素.md",
+    "Physics/静电学2-电势能和电势/常用电容器.md",
+    "Physics/静电学2-电势能和电势/电容器.md",
+    "Physics/静电学2-电势能和电势/P38电容器充放电实验和原理.md",
+    "Physics/静电学2-电势能和电势/补充：P39电容器放电过程的I-t图像实验.md",
+    "在数学物理中的极限导数微分积分概念.md",
     "Physics/静电学2-电势能和电势/补充：非匀强不均匀电场中带电粒子的加速、位移和能量.md",
-    "Physics/静电学1-静电场及其应用/3电场和电场强度的练习和应用.md",
-    "Physics/静电学1-静电场及其应用/04点电荷.md",
-    "Physics/静电学1-静电场及其应用/p3静电感应实验.md",
-    "Physics/静电学1-静电场及其应用/元电荷.md",
-    "Physics/静电学1-静电场及其应用/库伦的实验.md",
+    "Physics/静电学2-电势能和电势/电势差和电场强度的关系.md",
+    "Physics/静电学2-电势能和电势/电场线和等势面的关系.md",
+    "Physics/静电学2-电势能和电势/补充：处在静电平衡的导体的表面电势和内部电势分析.md",
+    "Physics/静电学2-电势能和电势/等势面.md",
+    "Physics/静电学2-电势能和电势/电势差.md",
+    "Physics/静电学2-电势能和电势/点电荷电场势能.md",
+    "Physics/静电学2-电势能和电势/匀强电场的电势.md",
+    "Physics/静电学2-电势能和电势/比较匀强电场电势和重力场的势能.md",
+    "Physics/静电学2-电势能和电势/匀强电场的静电功.md",
+    "Miscellaneous/Oct_2024",
     "Physics/在数学物理中的极限导数微分和积分",
     "Physics/静电学1-静电场及其应用/笔记 2024年9月19日.pdf",
     "Pasted image 20240926205052.png",
@@ -219,7 +212,6 @@
     "Users",
     "Physics/静电学1-静电场及其应用",
     "Physics/力学专题1-受力分析",
-    "Untitled",
     "img/Pasted image 20240910103006.png",
     "img/Pasted image 20240911135254.png",
     "img/Pasted image 20240911101151.png",
