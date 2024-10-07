@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "edd34f3cb67361ff",
+        "id": "5c86539febe7466d",
         "type": "tabs",
         "children": [
           {
-            "id": "85a6fc9e531296c5",
+            "id": "6262a6a563c0baae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "img/IMG_6706.png"
+              }
             }
           }
         ]
@@ -44,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stay",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +76,7 @@
       {
         "id": "f319c79396d22a2b",
         "type": "tabs",
+        "dimension": 81.48148148148148,
         "children": [
           {
             "id": "454dbdd324814b4c",
@@ -88,6 +91,7 @@
       {
         "id": "b4b333916b22be29",
         "type": "tabs",
+        "dimension": 18.51851851851852,
         "children": [
           {
             "id": "b9a946fa758c003f",
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "img/IMG_6706.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "img/IMG_6706.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "img/IMG_6706.png"
+              }
             }
           },
           {
@@ -144,11 +152,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 652.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,38 +175,47 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "85a6fc9e531296c5",
+  "active": "a9283db4b9eb3dff",
   "lastOpenFiles": [
-    "Physics/静电学2-电势能和电势/Untitled 2.md",
-    "Physics/静电学2-电势能和电势/P36例题：匀强电场中带电粒子的加速、位移和能量.md",
-    "Physics/静电学2-电势能和电势/静电场中的能量MOC.md",
-    "Miscellaneous/Oct_2024/2024十一密云福院儿烧烤.md",
-    "Physics/静电学2-电势能和电势/带电粒子在电场中的加速.md",
-    "Physics/静电学2-电势能和电势/P44例题.md",
-    "Physics/静电学2-电势能和电势/力学基础回顾/势能和功的关系.md",
-    "Physics/静电学2-电势能和电势/总结重力、弹力和库仑力.md",
+    "Physics/静电学2-电势能和电势/静电学回顾.md",
+    "img/IMG_6706.png",
+    "Physics/静电学1-静电场及其应用/3电场和电场强度.md",
+    "Physics/静电学2-电势能和电势/电场.md",
+    "Physics/静电学1-静电场及其应用/电场和河流的类比.md",
+    "Physics/物理中的强度性质和广度性质.md",
+    "Physics/在数学物理中的极限导数微分积分概念.md",
+    "img/Pasted image 20241001210334.png",
     "Physics/静电学2-电势能和电势/力学基础回顾/势能.md",
-    "Physics/静电学2-电势能和电势/电容.md",
-    "Physics/静电学2-电势能和电势/平板电容器的电容-影响电容器电容的因素.md",
-    "Physics/静电学2-电势能和电势/常用电容器.md",
-    "Physics/静电学2-电势能和电势/电容器.md",
+    "Physics/静电学2-电势能和电势/力学基础回顾/势能和功的关系.md",
+    "Physics/静电学2-电势能和电势/力学基础回顾/定义式和决定式.md",
     "Physics/静电学2-电势能和电势/P38电容器充放电实验和原理.md",
-    "Physics/静电学2-电势能和电势/补充：P39电容器放电过程的I-t图像实验.md",
-    "在数学物理中的极限导数微分积分概念.md",
-    "Physics/静电学2-电势能和电势/补充：非匀强不均匀电场中带电粒子的加速、位移和能量.md",
-    "Physics/静电学2-电势能和电势/电势差和电场强度的关系.md",
-    "Physics/静电学2-电势能和电势/电场线和等势面的关系.md",
-    "Physics/静电学2-电势能和电势/补充：处在静电平衡的导体的表面电势和内部电势分析.md",
-    "Physics/静电学2-电势能和电势/等势面.md",
-    "Physics/静电学2-电势能和电势/电势差.md",
-    "Physics/静电学2-电势能和电势/点电荷电场势能.md",
     "Physics/静电学2-电势能和电势/匀强电场的电势.md",
-    "Physics/静电学2-电势能和电势/比较匀强电场电势和重力场的势能.md",
-    "Physics/静电学2-电势能和电势/匀强电场的静电功.md",
+    "Excalidraw/Drawing 2024-10-07 14.12.59.excalidraw.md",
+    "img/Pasted image 20241006212840.png",
+    "img/Pasted image 20241006212830.png",
+    "img/Pasted image 20241006212256.png",
+    "img/Pasted image 20241006212129.png",
+    "Physics/静电学2-电势能和电势/电容.md",
+    "Physics/静电学2-电势能和电势/Untitled.md",
+    "Immunology/adaptive immune responses tipycally generate memory.md",
+    "Immunology/Ch1/Important Concepts for Understanding the Mammalian Immune Response.md",
+    "Immunology/Ch1/Immune cells and molecules can be found in many places.md",
+    "Immunology/Ch1/The immune response is composed of two interconnected arms--innate immunity and adaptive immunity.md",
+    "Immunology/Ch1/Chapter 1 Overview of the Immune System.md",
+    "Immunology/Ch1/Tolerance ensures that the immune system avoids destroying the host.md",
+    "Immunology/TOC.md",
+    "Untitled",
+    "Immunology/Untitled.md",
+    "Immunology/Ch1/A Historical Perspective of Immunology.md",
+    "Immunology/Ch1",
+    "Immunology/Ch1/Pathogen recognition molecules can be found as genes or generated by DNA Rearrangement.md",
+    "Immunology/Ch1/Early categorizing or profiling.md",
+    "Immunology",
+    "MLFROMSCRATCH",
     "Miscellaneous/Oct_2024",
     "Physics/在数学物理中的极限导数微分和积分",
     "Physics/静电学1-静电场及其应用/笔记 2024年9月19日.pdf",
-    "Pasted image 20240926205052.png",
+    "img/Pasted image 20240926205052.png",
     "Physics/静电学2-电势能和电势/力学基础回顾",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -208,16 +225,6 @@
     "img/Pasted image 20240923143141.png",
     "Physics/静电学2-电势能和电势",
     "Users/lr/znotes",
-    "Users/lr",
-    "Users",
-    "Physics/静电学1-静电场及其应用",
-    "Physics/力学专题1-受力分析",
-    "img/Pasted image 20240910103006.png",
-    "img/Pasted image 20240911135254.png",
-    "img/Pasted image 20240911101151.png",
-    "Pasted image 20240909103217.png",
-    "Pasted image 20240908144252.png",
-    "Pasted image 20240909101617.png",
     "Excalidraw/Untitled.canvas"
   ]
 }

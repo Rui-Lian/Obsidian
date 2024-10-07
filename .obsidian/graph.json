@@ -1,14 +1,14 @@
 {
   "collapse-filter": false,
-  "search": "path:Physics/静电学2-电势能和电势  ",
+  "search": "path:Immunology  ",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.6304005374587127,
+  "scale": 1.1707883793172387,
   "close": true
 }
