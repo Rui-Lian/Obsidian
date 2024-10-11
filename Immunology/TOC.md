@@ -3,7 +3,7 @@
 [[Chapter 1 Overview of the Immune System]]
 
 
-[[Chapter2: Cells, Organs and microencironments of the immune system]]
+[[Chapter2-Cells, Organs and microencironments of the immune system]]
 
 [[Chapter3: Recognition and response]]
 

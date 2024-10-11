@@ -1,18 +1,10 @@
 
-A tissue, organ, space and time picture. 
+#immunologic_memory
+#primary_response
+#secondary_response
+#memory_cells
 
-Highly dispersed and specialized immune system across the body
-- everywhere but tissue/organ specific
-- circulated white cells, more concentrated in some organ
-- tissue-resident immune cells, sentinel cells
+innate immune responses remain constant, in terms of peaking speed and magnitude, at every exposure of antigen. 
 
-Time and space connection:
-- lymph node
-- transition from innate to adaptive immunity
-- Tissue fluid funneled to and filtered
-- antigen-specific lymphocytes scanning foreign antigens
+Adaptive immune responses have memory to peak more quickly and response more dramatically at subsequent exposure of antigen. 
 
-Signals to communication: 
-- cytokines: intracellular signaling cascades, gene transcription to induce new functions. 
-- chemokines: recruit specific cells to the site. 
-- #Inflammatory-response
